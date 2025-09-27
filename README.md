@@ -1,4 +1,1 @@
-# Resumalyz
-# Resumalyz
-# Resumalyz
-# Resumalyz
+# AI_Resume_Analyzer
