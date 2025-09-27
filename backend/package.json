@@ -17,6 +17,10 @@
     "mammoth": "^1.11.0",
     "mongoose": "^8.18.1",
     "multer": "^2.0.2",
-    "pdf-parse": "^1.1.1"
+    "natural": "^8.1.0",
+    "openai": "^5.23.1",
+    "pdf-parse": "^1.1.1",
+    "stopwords": "^0.0.9",
+    "ws": "^8.18.3"
   }
 }
